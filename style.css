@@ -109,6 +109,10 @@
     font-weight: 700;
 }
 
+.nav-country:hover{
+    border: 1.8px solid white;
+}
+
 /*box 4*/
 
 span{
@@ -119,6 +123,7 @@ span{
     font-size: 0.85rem;
      font-weight: 700;
 }
+
 
 /*box 6*/
 
@@ -148,6 +153,7 @@ margin-left: 15px;
 
 }
 
+
 .panel-ops{
     width: 70%;
     font-size: 0.85rem;
@@ -156,6 +162,10 @@ margin-left: 15px;
 .panel-deals{
     font-size: 0.85;
     font-weight: 700;
+}
+
+.panel-deals:hover{
+    border: 1.8px solid white;
 }
 
 /*Hero section*/
@@ -206,6 +216,7 @@ margin-left: 15px;
     
 }
 
+
 .box-image{
     height: 300px;
     background-size: cover;
@@ -241,6 +252,10 @@ margin-left: 15px;
     align-items: center;
     font-size: 0.85rem;
 
+}
+
+.footer-panel1:hover{
+    border: 1.8px solid white;
 }
 
 .footer-panel2{
