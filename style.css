@@ -1,0 +1,25 @@
+/* Set all margins to 0 */
+
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;  /* this adds border area into the height and width , helps to measure space*/
+}
+
+.navbar{  /* inspected from orginal website*/
+    height : 60px;
+    background-color: #0F1111; 
+    color:white
+}
+
+.nav-logo{
+    height: 50 px;
+    width: 100px;
+}
+
+.logo{
+    background-image: url("images/amazon_logo.png") ;
+    width: 100%;
+    height: 50px;
+    background-size: cover;
+}
