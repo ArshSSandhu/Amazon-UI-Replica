@@ -23,3 +23,11 @@
     height: 50px;
     background-size: cover;
 }
+
+.border{
+    border: 1.8 solid transparent;
+}
+
+.border:hover{
+    border: 1.8px solid white;
+}
