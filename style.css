@@ -9,7 +9,10 @@
 .navbar{  /* inspected from orginal website*/
     height : 60px;
     background-color: #0F1111; 
-    color:white
+    color:white;
+    /*display flex puts nav items horizontally */
+    display : flex;
+    align-items: center;
 }
 
 .nav-logo{
@@ -30,4 +33,22 @@
 
 .border:hover{
     border: 1.8px solid white;
+}
+
+/* style for box 2*/
+
+.address-first{
+    color: #CCCCCC;
+    font-size: 0.85rem;
+    margin-left :15px;
+}
+
+.address-second{
+    font-size: 1rem;
+    margin-left: 3px ;
+}
+
+.add-icon{
+    display: flex;
+    align-items: center;
 }
