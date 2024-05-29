@@ -17,6 +17,7 @@ Check out the live demo of the project [Amazon UI Replica - created by Arsh Sand
 ## Screenshots
 
 ![Homepage](https://github.com/ArshSSandhu/Amazon-UI-Replica/blob/main/screenshots/Screenshot_one.png)
+![Alt Text](https://github.com/ArshSSandhu/Amazon-UI-Replica/blob/main/screenshots/Screenshot_two.png)
 
 
 
