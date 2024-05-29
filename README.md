@@ -12,5 +12,5 @@ This project serves as a demonstration of my skills in HTML and CSS. It showcase
 
 ## Live Demo
 
-Check out the live demo of the project [here]([https://your-username.github.io/amazon-clone-project/](https://arshssandhu.github.io/Amazon-UI-Replica/)).
+Check out the live demo of the project [here](https://arshssandhu.github.io/Amazon-UI-Replica/).
 
