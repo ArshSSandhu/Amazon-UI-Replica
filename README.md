@@ -12,5 +12,11 @@ This project serves as a demonstration of my skills in HTML and CSS. It showcase
 
 ## Live Demo
 
-Check out the live demo of the project [here](https://arshssandhu.github.io/Amazon-UI-Replica/).
+Check out the live demo of the project [Amazon UI Replica - created by Arsh Sandhu](https://arshssandhu.github.io/Amazon-UI-Replica/).
+
+## Screenshots
+
+![Homepage](https://github.com/ArshSSandhu/Amazon-UI-Replica/blob/main/screenshots/Screenshot_one.png)
+
+
 
